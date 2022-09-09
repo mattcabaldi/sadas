@@ -9,7 +9,7 @@
     client.settings = {
 
         Prefix: ".",
-        Token: "MTAxNzc0NzA4MTMxMTU2Nzg3Mg.Gw7kfb.8snwSMlbw44NfcsHG_HXo5-1nAnx5Zdr6UsoVk",
+        Token: "MTAxNzc2NzE5Njg5MTU2NjEzMQ.GLEkme.P7k0NfAP8zKGIR2ieId2JCW3VYXIdXewc43SNg",
         Owners: [386870471884275724],
         VoiceChannel: "",
         Activity: "WATCHING",
